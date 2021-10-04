@@ -1,6 +1,6 @@
 # Kubernetes Cluster 
 
-![Raspbernetes](docs/imdocs/img/raspbernetes.jpgg/raspbernetes.png?raw=true "Raspbernetes")
+![Raspbernetes](https://github.com/BlueBandicoot/k3s/blob/main/docs/img/raspbernetes.png?raw=true "Raspbernetes")
 
 ## Nodes
 + OS: 
