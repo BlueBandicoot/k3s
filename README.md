@@ -1,6 +1,6 @@
 # Kubernetes Cluster 
 
-![Raspbernetes](docs/imdocs/img/raspbernetes.jpgg/raspbernetes.png)
+![Raspbernetes](docs/imdocs/img/raspbernetes.jpgg/raspbernetes.png?raw=true "Raspbernetes")
 
 ## Nodes
 + OS: 
