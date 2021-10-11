@@ -51,7 +51,7 @@
 + Ingress: **Istio**
 + Network Security: **Istio**
 + Storage: **rook-ceph**
-+ Backups: **???**
++ Backups: **K10 Kasten**
 + Certificate management: **cert-manager**
 + Secret management: **sops** + **Sealed Secrets**? **Vault**?
 + Identity Provider: **keycloak**
